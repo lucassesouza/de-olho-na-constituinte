@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "De Olho na Constituinte",
+    "section": "",
+    "text": "A Assembleia Constituinte de 1987 teve a responsabilidade de elaborar uma nova Constituição Federal para substituir a que havia sido instaurada durante a ditadura militar (1964-1985). Os seus membros foram eleitos durante as eleições gerais de 1986, seguindo o modelo de Congresso Constituinte, que difere de uma Constituinte Exclusiva, em que os representantes são eleitos com o propósito específico de elaborar a constituição. Assim, os membros da Assembleia Constituinte acumularam a função de congressistas e constituintes, permanecendo em seus cargos após o término da elaboração da nova Constituição."
+  },
+  {
+    "objectID": "index.html#pacotes-e-versões-utilizadas",
+    "href": "index.html#pacotes-e-versões-utilizadas",
+    "title": "De Olho na Constituinte",
+    "section": "Pacotes e versões utilizadas",
+    "text": "Pacotes e versões utilizadas"
+  },
+  {
+    "objectID": "index.html#construindo-o-bd-parlamento-constituinte-1987-1988",
+    "href": "index.html#construindo-o-bd-parlamento-constituinte-1987-1988",
+    "title": "De Olho na Constituinte",
+    "section": "Construindo o BD Parlamento Constituinte (1987-1988)",
+    "text": "Construindo o BD Parlamento Constituinte (1987-1988)\n\nO Parlamento Constituinte embarca tantos os deputados federais quanto os senadores, pois todos participaram dos processos de tomada de decisão durante a Assembleia Constituinte. Porém, para proporcionar a realização de um maior número de análises, é possível diferenciálos a partir da variável Cargo_Legislativo .\n\nAs informações foram obtidas por web scraping através das seguintes páginas: deputados e senadores."
+  },
+  {
+    "objectID": "index.html#abrindo-o-banco-de-dados-das-comissões-e-subcomissões",
+    "href": "index.html#abrindo-o-banco-de-dados-das-comissões-e-subcomissões",
+    "title": "De Olho na Constituinte",
+    "section": "Abrindo o Banco de Dados das Comissões e Subcomissões",
+    "text": "Abrindo o Banco de Dados das Comissões e Subcomissões\nEsse banco de dados foi construído direto no excel"
+  },
+  {
+    "objectID": "index.html#representação-partidária",
+    "href": "index.html#representação-partidária",
+    "title": "De Olho na Constituinte",
+    "section": "Representação Partidária",
+    "text": "Representação Partidária\nNúmero de parlamentares de cada partido que integrou a Assembleia Constituinte."
+  },
+  {
+    "objectID": "index.html#composição-parlamentar-por-gênero",
+    "href": "index.html#composição-parlamentar-por-gênero",
+    "title": "De Olho na Constituinte",
+    "section": "Composição parlamentar por gênero",
+    "text": "Composição parlamentar por gênero\nQuantidade de homens e mulheres na composição do Parlamento Constituinte."
+  },
+  {
+    "objectID": "index.html#presença-de-representantes-das-unidades-federativas-no-parlamento",
+    "href": "index.html#presença-de-representantes-das-unidades-federativas-no-parlamento",
+    "title": "De Olho na Constituinte",
+    "section": "Presença de representantes das Unidades Federativas no Parlamento",
+    "text": "Presença de representantes das Unidades Federativas no Parlamento\nQuantidade de parlamentares constituintes por Unidade Federativa1.\n\nclique no estado para visualizar os parlamentares e partidos."
+  },
+  {
+    "objectID": "index.html#integrantes-da-mesa-diretora",
+    "href": "index.html#integrantes-da-mesa-diretora",
+    "title": "De Olho na Constituinte",
+    "section": "Integrantes da Mesa Diretora",
+    "text": "Integrantes da Mesa Diretora\nA Mesa Diretora organizava os trabalhos da Assembleia Constituinte, seus integrantes foram eleitos pela própria Assembleia."
+  },
+  {
+    "objectID": "index.html#parlamentares-constituintes",
+    "href": "index.html#parlamentares-constituintes",
+    "title": "De Olho na Constituinte",
+    "section": "Parlamentares Constituintes",
+    "text": "Parlamentares Constituintes\nVeja todos os deputados e senadores que participaram da Assembleia Constituinte"
+  },
+  {
+    "objectID": "index.html#comissões-e-número-de-integrantes",
+    "href": "index.html#comissões-e-número-de-integrantes",
+    "title": "De Olho na Constituinte",
+    "section": "Comissões e número de integrantes",
+    "text": "Comissões e número de integrantes"
+  },
+  {
+    "objectID": "index.html#subcomissões-e-número-de-integrantes",
+    "href": "index.html#subcomissões-e-número-de-integrantes",
+    "title": "De Olho na Constituinte",
+    "section": "Subcomissões e número de integrantes",
+    "text": "Subcomissões e número de integrantes"
+  },
+  {
+    "objectID": "index.html#lula",
+    "href": "index.html#lula",
+    "title": "De Olho na Constituinte",
+    "section": "Lula",
+    "text": "Lula\nRazões do voto contrário do Partido dos Trabalhadores ao Projeto de Constituição, realizado em 22 de setembro de 1988."
+  },
+  {
+    "objectID": "index.html#ulysses-guimarães",
+    "href": "index.html#ulysses-guimarães",
+    "title": "De Olho na Constituinte",
+    "section": "Ulysses Guimarães",
+    "text": "Ulysses Guimarães\nPronunciamento favorável a promulgação da nova constituição, realizado em 05/10/1988."
+  },
+  {
+    "objectID": "index.html#ailton-krenak",
+    "href": "index.html#ailton-krenak",
+    "title": "De Olho na Constituinte",
+    "section": "Ailton Krenak",
+    "text": "Ailton Krenak\nA participação na Assembleia Constituinte não se limitou aos parlamentares, membros da sociedade civil também tiveram presença no processo. Ailton Krenak, filósofo e líder indígena, proferiu um discurso-protesto em defesa dos direitos dos povos indígenas, realizado em 04 de setembro de 1987.\n\n\n\n\n\nObrigado por ver até aqui! 😉"
+  }
+]
