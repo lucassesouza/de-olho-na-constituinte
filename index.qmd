@@ -38,7 +38,7 @@ library(bbplot) #Version 0.2
 
 # Banco de Dados
 
-Foram utilizados nesse projeto dois banco de dados, construídos pelo autor através dos dados obtidos no site oficial da [Câmara dos Deputados](https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/constituintes/constituintes). Os banco de dados encontram-se disponíveis para uso no [GitHub](https://github.com/lucassesouza/de-olho-na-constituinte-codigo).
+Foram utilizados nesse projeto dois banco de dados, construídos pelo autor através dos dados obtidos no site oficial da [Câmara dos Deputados](https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/constituintes/constituintes). Os bancos de dados podem ser baixados, [aqui](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SV7WEX).
 
 > O Parlamento Constituinte embarca tantos os deputados federais quanto os senadores, pois todos participaram dos processos de tomada de decisão durante a Assembleia Constituinte.
 
